@@ -26,6 +26,12 @@ public class AdditionBean {
 	}
 	
 	
+	//this is new method
+	public void printSub() {
+		int sub=num1-num2;
+		System.out.println("the subtraction of two numbers:"+sub);
+	}
+	
 	
 	
 	

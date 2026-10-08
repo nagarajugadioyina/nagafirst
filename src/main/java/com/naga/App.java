@@ -16,6 +16,8 @@ public class App
         AdditionBean ab=(AdditionBean)ctx.getBean("id1");
         
         ab.printAdd();
+        //this new method calling
+        ab.printSub();
     	
     	
     	
